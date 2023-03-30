@@ -2,10 +2,16 @@
 
 namespace Controllers;
 
+use MVC\Router;
+
 class LoginController
 {
-    public static function login()
+    public static function login(Router $router)
     {
-        echo "Desde Login";
+        if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+        }
+
+        //Render View
+        $router->render('auth/login', []);
     }
 }
