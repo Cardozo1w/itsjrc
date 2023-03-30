@@ -1,6 +1,6 @@
 {
-    "name": "juandelatorre/up-task_mvc",
-    "description": "Proyecto UpTask MVC, PHP 8, SASS",
+    "name": "oscarcardoso/up-task_mvc",
+    "description": "Proyecto ITSJRC MVC, PHP 8",
     "type": "project",
     "autoload": {
         "psr-4": {
