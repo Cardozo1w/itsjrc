@@ -14,13 +14,13 @@
                     <span class="pl-2 pb-2  font-medium">
                         Correo
                     </span>
-                    <input class="block w-full !bg-white py-4 px-6 rounded-xl" type="text" name="user" id="user" />
+                    <input placeholder="Correo" class="border-b border-indigo-700 block w-full !bg-white py-4 px-6 rounded-md" type="text" name="user" id="user" />
                 </label>
                 <label>
                     <span class="pl-2 pb-4font-medium">
                         Password
                     </span>
-                    <input class="block w-full !bg-white py-4 px-6 rounded-md" type="password" name="password" id="password" />
+                    <input placeholder="Password" class="border-b border-indigo-700 block w-full !bg-white py-4 px-6 rounded-md" type="password" name="password" id="password" />
                 </label>
                 <button class="bg-indigo-700 text-white font-medium rounded-md py-4 hover:bg-indigo-900 cursor-pointer ease-in duration-[.3s]">Iniciar sesion</button>
                 <div class="text-sm">
