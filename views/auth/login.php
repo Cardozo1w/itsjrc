@@ -2,7 +2,7 @@
     <h1 class="text-center text-4xl font-semibold mt-8 mb-4">Administracion ITSJRC</h1>
 
     <div class="md:flex pt-10">
-        <div class="md:w-1/2 flex justify-center items-center">
+        <div class="hidden md:flex md:w-1/2 justify-center items-center">
             <div class="w-[300px] h-[300px] md:w-[400px] md:h-[400px] flex justify-center items-center mx-auto">
                 <img src="src/images/undraw_drink_coffee_cqs1.svg" alt="login image" />
             </div>
